@@ -224,7 +224,7 @@ body {
     background-image: linear-gradient(to right, #FFFFFF, #d0d3d4);
 }
 .temp-1-testimonial-section .testimonial-container.py-5.px-5 {
-    text-align: center;
+    text-align: center !important;
     font-style: italic;
 }
 
