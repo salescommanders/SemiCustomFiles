@@ -1,0 +1,234 @@
+
+
+<!DOCTYPE html>
+<html lang="">
+<head>
+	<link href="https://gerrifranchini.exprealty.com" rel="canonical">
+	<link href="https://alongreyber.github.io/KVCore-Sites/out.css" rel="stylesheet" type="text/css"><!-- jQuery 1.8 or later, 33 KB -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css" integrity="sha512-UTNP5BXLIptsaj5WdKFrkFov94lDx+eBvbKyoe1YAfjeRPC+gT5kyZ10kOHCfNZqEui1sxmqvodNUx3KbuYI/A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link href="https://d133rs42u5tbg.cloudfront.net/hero/assets/css/kv-bluesteel.css?v=121" rel="stylesheet" type="text/css">
+	<link href="https://d133rs42u5tbg.cloudfront.net/hero/assets/css/widgets.css?v=121" rel="stylesheet" type="text/css"><!-- Start Copying css here -->
+	<link href="https://gitcdn.link/cdn/salescommanders/SemiCustomFiles/main/template2/global.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" rel="stylesheet">
+	<link href="https://wowjs.uk/css/libs/animate.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" media="all" rel="stylesheet">
+	<link href="https://d133rs42u5tbg.cloudfront.net/common/assets/bootstrap-tokenfield/css/bootstrap-tokenfield.css" rel="stylesheet" type="text/css"><!-- END OF Style --><!-- FEATURED AREAS START -->
+    <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+	<title></title>
+</head>
+<body>
+	<div class="widgetWrapper">
+		<section class="template1 img-bg1">
+			<div class="container-fluid">
+				<div class="pt-5">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-4 py-1">
+								<a class="hvr-shutter-out-vertical txt-overlay" href="https://terrimckinley.exprealty.com/areas/Duncan" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/602a31124045707.60fbb4ad907e4.jpg');">
+								<div class="txt-holder text-white">
+									<h1>Duncan</h1>
+								</div></a>
+							</div>
+							<div class="col-md-4 py-1">
+								<a class="hvr-shutter-out-vertical txt-overlay" href="https://terrimckinley.exprealty.com/areas/Greenville" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79a13c124045707.60fbb4ad8dfaa.jpg');">
+								<div class="txt-holder text-white">
+									<h1>Greenville</h1>
+								</div></a>
+							</div>
+							<div class="col-md-4 py-1">
+								<a class="hvr-shutter-out-vertical txt-overlay" href="https://terrimckinley.exprealty.com/areas/Lyman" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/fs/0ba33b124045707.60fbb4ad8f34a.jpg');">
+								<div class="txt-holder text-white">
+									<h1>Lyman</h1>
+								</div></a>
+							</div>
+							<div class="col-md-4 py-1">
+								<a class="hvr-shutter-out-vertical txt-overlay" href="https://terrimckinley.exprealty.com/areas/Pauline" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a2d0f4124045707.60fbb4ad8d865.jpg');">
+								<div class="txt-holder text-white">
+									<h1>Pauline</h1>
+								</div></a>
+							</div>
+							<div class="col-md-4 py-1">
+								<a class="hvr-shutter-out-vertical txt-overlay" href="https://terrimckinley.exprealty.com/areas/Roebuck" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/83b9c8124045707.60fbb4ad914de.jpg');">
+								<div class="txt-holder text-white">
+									<h1>Roebuck</h1>
+								</div></a>
+							</div>
+							<div class="col-md-4 py-1">
+								<a class="hvr-shutter-out-vertical txt-overlay" href="https://terrimckinley.exprealty.com/areas/Spartanburg" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1418e6124045707.60fbb4ad8fa02.jpg');">
+								<div class="txt-holder text-white">
+									<h1>Spartanburg</h1>
+								</div></a>
+							</div>
+							<div class="col-md-4 py-1">
+								<a class="hvr-shutter-out-vertical txt-overlay" href="https://terrimckinley.exprealty.com/areas/Woodruff" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/298e41124045707.60fbb4ad8e860.jpg');">
+								<div class="txt-holder text-white">
+									<h1>Woodruff</h1>
+								</div></a>
+							</div>
+							<div class="col-md-4 py-1">
+								<a class="hvr-shutter-out-vertical txt-overlay" href="https://terrimckinley.exprealty.com/areas/29388" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/fs/d44294124045707.60fbb4ad90343.jpg');">
+								<div class="txt-holder text-white">
+									<h1>South Carolina</h1>
+								</div></a>
+							</div>
+							<div class="col-md-4 py-1 mb-5">
+								<a class="hvr-shutter-out-vertical txt-overlay" href="https://terrimckinley.exprealty.com/areas/29316" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/df7277124045707.60fbb4ad8e41c.jpg');">
+								<div class="txt-holder text-white">
+									<h1>Greenville Spartanburg</h1>
+								</div></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!-- FEATURED AREAS ENDS --><!-- BIO AREA START -->
+		<section class="template1 bg-white pt-5 pb-5">
+			<div class="container">
+				<div class="overlay-parallax1">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-7 center-text">
+								<h1 class="temp-2-bio-name">Terri McKinley</h1>
+								<h3>Real estate Agent</h3>
+								<p style="font-size: 20px;"><span style='color: rgb(79, 88, 94); font-family: "Source Sans Pro", sans-serif; font-size: 13.6px; text-align: left; background-color: rgb(255, 255, 255);'>Knowledge, passion, discretion, and integrity have been the undercurrents of Terri real estate business for over 15 years. His natural charisma, combined with his ability to be laser-focused on clients in a way that makes them feel like there is no one else in the room, are well-known trademarks. Central to Terri success, however, is his dedication to his clients. They find him warm and down-to-earth, with an uncanny ability to connect with them on a personal level. Ken is his clients’ greatest advocate, always keeping their interests top of mind.</span><br>
+								<span style='color: rgb(79, 88, 94); font-family: "Source Sans Pro", sans-serif; font-size: 13.6px; text-align: left; background-color: rgb(255, 255, 255);'>A Newport, Rhode Island native, and long time resident and top luxury home Realtor in Las Vegas, Ken has unsurpassed knowledge of the luxury home market, enabling him to instinctively match clients with their ideal properties. Ken also excels at the negotiating table, navigating even the most challenging situations with grace and ease.&nbsp;</span> <span style='color: rgb(79, 88, 94); font-family: "Source Sans Pro", sans-serif; font-size: 13.6px; text-align: left; background-color: rgb(255, 255, 255);'>Ken settled in Lakewood Ranch, Florida two years ago and absolutely fell in love with the community and everything this beautiful southwest Florida area has to offer. When not working, you will find Ken on one of the local golf courses or tennis courts, enjoying a day on the boat in the beautiful Gulf of Mexico with family and friends, relaxing in the hot sun or taking in a breathtaking sunset at the world famous Siesta Key Beach, or enjoying a night out at one of Sarasota’s wonderful theaters.</span></p>
+								<div class="mb-3">
+									<a class="icon-button twitter" href="https://twitter.com/TerriMcKinley12"><i class="fa fa-twitter"></i>&nbsp;</a> <a class="icon-button twitter" href="https://www.instagram.com/terrimckinleyrealtor/"><i class="fa fa-instagram"></i>&nbsp;</a> <a class="icon-button twitter" href="https://www.facebook.com/terrimckinleyrealtor"><i class="fa fa-facebook"></i>&nbsp;</a> <a class="icon-button twitter" href="https://www.linkedin.com/in/terrimckinley/"><i class="fa fa-linkedin"></i>&nbsp;</a>
+								</div>
+							</div>
+							<div class="col-md-4"><img alt="" class="fr-fil fr-dib mt-3" src="https://kunversion-frontend-blog.s3.amazonaws.com/images/customarea-terrimckinley.exprealty.com-103971-0857ac433e416555274b764b8baf98a4ff6ffa07.png" style="width: 100%;"></div>
+							<p><br></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!-- BIO AREA ENDS --><!-- GUIDE AREA STARTS -->
+		<section class="template1 img-bg1">
+			<div class="container-fluid">
+				<div class="text-center">
+					<h2 class="p-5"><strong>Let Us Guide You</strong></h2>
+				</div>
+				<div class="row">
+					<div class="col-sm-3 p-0">
+						<div class="content-bg1 hvr-trim" style="background-image:url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/da816f124045707.60fbba52d8a09.jpg); height: 590px;">
+							<div class="content-overlay1">
+								<div class="content1">
+									<h1 class="text-white py-2"><a class="hvr-underline-from-left" href="https://terrimckinley.exprealty.com/index.php?rtype=map">BUYING A HOME</a></h1>
+									<div class="bottom text-white">
+										<h5><a class="hvr-underline-from-left fr-green" href="https://terrimckinley.exprealty.com/index.php?rtype=map">Single Family Homes <span class="fa fa-arrow"></span></a><br>
+										<br>
+										<a class="hvr-underline-from-left" href="https://terrimckinley.exprealty.com/index.php?rtype=map">Condos &amp; Townhouses <span class="fa fa-arrow"></span></a></h5>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3 p-0">
+						<div class="content-bg1 hvr-trim" style="background-image:url(https://mir-s3-cdn-cf.behance.net/project_modules/fs/7ea441124045707.60fbba17ce3f2.jpg); height: 590px;">
+							<div class="content-overlay1">
+								<div class="content1">
+									<h1 class="text-white py-2"><a class="hvr-underline-from-left" href="https://terrimckinley.exprealty.com/sell.php">SELLING HOME</a></h1>
+									<div class="bottom text-white">
+										<h5><a class="hvr-underline-from-left" href="https://terrimckinley.exprealty.com/sell.php">Single Family Homes <span class="fa fa-arrow"></span></a><br>
+										<br>
+										<a class="hvr-underline-from-left" href="https://terrimckinley.exprealty.com/sell.php">Condos &amp; Townhouses <span class="fa fa-arrow"></span></a></h5>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3 p-0">
+						<div class="content-bg1 hvr-trim" style="background-image:url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/90af08124045707.60fbba52d8381.jpg);height: 590px;">
+							<div class="content-overlay1">
+								<div class="content1">
+									<h1 class="text-white py-2"><a class="hvr-underline-from-left" href="https://terrimckinley.exprealty.com/contact.php">GET IN TOUCH</a></h1>
+									<div class="bottom text-white">
+										<h5><a class="hvr-underline-from-left" href="https://terrimckinley.exprealty.com/contact.php">Single Family Homes <span class="fa fa-arrow"></span></a><br>
+										<br>
+										<a class="hvr-underline-from-left" href="https://terrimckinley.exprealty.com/contact.php">Condos &amp; Townhouses <span class="fa fa-arrow"></span></a></h5>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3 p-0">
+						<div class="content-bg1 hvr-trim" style="background-image:url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c66a3a124045707.60fbba17cdcc6.jpg); height: 590px;">
+							<div class="content-overlay1">
+								<div class="content1">
+									<h1 class="text-white py-2"><a class="hvr-underline-from-left" href="https://terrimckinley.exprealty.com/resources/buyer-guide">BUYERS GUIDE</a></h1>
+									<div class="bottom text-white">
+										<h5><a class="hvr-underline-from-left" href="https://terrimckinley.exprealty.com/resources/buyer-guide">Single Family Homes <span class="fa fa-arrow"></span></a><br>
+										<br>
+										<a class="hvr-underline-from-left" href="https://terrimckinley.exprealty.com/resources/buyer-guide">Condos &amp; Townhouses <span class="fa fa-arrow"></span></a></h5>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!-- GUIDE AREA ENDS --><!-- TESTIMONIAL AREA STARTS -->
+		<section class="template5 pt-5 pb-5">
+			<div class="row">
+				<div class="container">
+                    
+
+
+
+
+                    <div class="owl-carousel owl-theme">
+                        <div class="item">
+                            <div class="testimonial5" style="padding: 35px 50px; margin: 30px 20px 30px; border-radius: 0 70px 0px 70px; border: 5px solid #8e8484; border-left: none; border-right: none; text-align: center;">
+									<div class="testimonial" style="padding: 70px 35px 0px; margin: 50px 30px 30px; border: 0px solid #607D8B; position: relative;">
+										<div class="testimonial-content">
+											<p class="description" style=" color: black; font-size: 20px;">[AGENT] was so helpful for my family and I throughout the process. [AGENT’s] communication and negotiation skills helped us in a very tough market and we are very grateful! I would recommend [AGENT] to anyone looking to buy or sell!</p>
+											<h3 class="testimonial-title" style="margin-top: 20px;"><small style=" color: #0068af; padding: 4px 12px 6px 11px;">-Jonathan K.</small></h3>
+										</div>
+										<div class="pic" style="border: 5px solid #222425;"><img alt="" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a3961b124045707.60fbb65265a14.jpg"></div>
+									</div>
+								</div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial5" style="padding: 35px 50px; margin: 30px 20px 30px; border-radius: 0 70px 0px 70px; border: 5px solid #8e8484; border-left: none; border-right: none; text-align: center;">
+									<div class="testimonial" style="padding: 70px 35px 0px; margin: 50px 30px 30px; border: 0px solid #607D8B; position: relative;">
+										<div class="testimonial-content">
+											<p class="description" style=" color: black; font-size: 20px;">When my husband and I first thought about the home buying process, we were initially intimidated by stories we had heard from our friends and family. However, working with [AGENT] has been an absolutely amazing experience! As first time home buyers, we felt educated, confident and comfortable working with [AGENT!]</p>
+											<h3 class="testimonial-title" style="margin-top: 20px;"><small style=" color: #0068af; padding: 4px 12px 6px 11px;">-Katherine P.</small></h3>
+										</div>
+										<div class="pic" style="border: 5px solid #222425;"><img alt="" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a3961b124045707.60fbb65265a14.jpg"></div>
+									</div>
+								</div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial5" style="padding: 35px 50px; margin: 30px 20px 30px; border-radius: 0 0px 70px 70px; border: 5px solid #8e8484; border-left: none; border-right: none; text-align: center;">
+									<div class="testimonial" style="padding: 70px 35px 0px; margin: 50px 30px 30px; border: 0px solid #607D8B; position: relative;">
+										<div class="testimonial-content">
+											<p class="description" style=" color: black; font-size: 20px;">Selling our home was fast and efficient. We had multiple offers on our home within a few days and everything from the marketing to the negotiations were handled quickly and without any issues. Thank you [AGENT] for making this process easy.</p>
+											<h3 class="testimonial-title" style="margin-top: 20px;"><small style=" color: #0068af; padding: 4px 12px 6px 11px;">-Emma C.</small></h3>
+										</div>
+										<div class="pic" style="border: 5px solid #222425;"><img alt="" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a3961b124045707.60fbb65265a14.jpg"></div>
+									</div>
+								</div>
+                            </div>
+                    </div>
+
+
+				</div>
+			</div>
+		</section><!-- TESTIMONIAL AREA ENDS --><!-- START OF SCRIPT CODES INSIDE BODY --><!-- END OF SCRIPT CODES INSIDE BODY --><!-- END OF BODY -->
+	</div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js" integrity="sha512-gY25nC63ddE0LcLPhxUJGFxa2GoIyA5FLym4UJqHDEMHjp8RET6Zn/SHo1sltt3WuVtqfyxECP38/daUc/WVEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+        $('.owl-carousel').owlCarousel({
+            loop:true,
+            margin:10,
+            items:1,
+            pagination: false,
+            autoplay:true,
+            autoplayTimeout:5000,
+            autoplayHoverPause:true
+        })
+    </script>
+</body>
+</html>

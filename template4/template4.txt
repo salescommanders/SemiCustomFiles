@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+	<link href="https://gerrifranchini.exprealty.com" rel="canonical">
+	<link href="https://alongreyber.github.io/KVCore-Sites/out.css" rel="stylesheet" type="text/css"><!-- jQuery 1.8 or later, 33 KB -->
+	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://d133rs42u5tbg.cloudfront.net/hero/assets/css/kv-bluesteel.css?v=121" rel="stylesheet" type="text/css">
+	<link href="https://d133rs42u5tbg.cloudfront.net/hero/assets/css/widgets.css?v=121" rel="stylesheet" type="text/css"><!-- Start Copying css here -->
+	<link href="https://gitcdn.link/cdn/salescommanders/SemiCustomFiles/main/template4/global.css" rel="stylesheet">
+	<link href="https://wowjs.uk/css/libs/animate.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" media="all" rel="stylesheet">
+	<link href="https://d133rs42u5tbg.cloudfront.net/common/assets/bootstrap-tokenfield/css/bootstrap-tokenfield.css" rel="stylesheet" type="text/css"><!-- END OF Style -->
+	<title></title>
+    <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+</head>
+<body>
+	<div class="widgetWrapper">
+		<!-- FEATURED AREAS START -->
+		<section class="template5 temp-4-img-bg1" style="background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/090b0f115174981.6142096a5838f.png); background-size: cover;">
+			<h1 class="text-center"><br></h1>
+			<h1 class="text-center">FEATURED AREAS</h1>
+			<div class="container">
+				<div class="pt-5">
+					<div class="row">
+						<div class="col-md-4 text-center py-1">
+							<a class="text-center" href="https://www.yourbestkansascitylife.com/areas/Pleasant+Valley" rel="noopener noreferrer" target="_blank">
+							<div class="hvr-grow-rotate temp-4-container-square" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/disp/d01cb6115174981.60f65f3864db4.jpg');">
+								<br>
+							</div>
+							<h1 class="text-dark mt-3">Pleasant Valley</h1></a>
+						</div>
+						<div class="col-md-4 text-center py-1">
+							<a class="text-center" href="https://www.yourbestkansascitylife.com/areas/Kansas+City" rel="noopener noreferrer" target="_blank">
+							<div class="hvr-grow-rotate temp-4-container-square" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8eab4e115174981.60f65f38642ea.jpg');">
+								<br>
+							</div>
+							<h1 class="text-dark mt-3">Kansas City</h1></a>
+						</div>
+						<div class="col-md-4 text-center py-1">
+							<a class="text-center" href="https://www.yourbestkansascitylife.com/areas/Plattsburg" rel="noopener noreferrer" target="_blank">
+							<div class="hvr-grow-rotate temp-4-container-square" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/disp/877974115174981.60f65f38660a6.jpg');">
+								<br>
+							</div>
+							<h1 class="text-dark mt-3">Plattsburg</h1></a>
+						</div>
+						<div class="col-md-4 text-center py-1">
+							<a class="text-center" href="https://www.yourbestkansascitylife.com/areas/Olathe" rel="noopener noreferrer" target="_blank">
+							<div class="hvr-grow-rotate temp-4-container-square" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f24b2f115174981.60f653094a54c.jpg');">
+								<br>
+							</div>
+							<h1 class="text-dark mt-3">Olathe</h1></a>
+						</div>
+						<div class="col-md-4 text-center py-1">
+							<a class="text-center" href="https://www.yourbestkansascitylife.com/areas/Lake+Lotawana" rel="noopener noreferrer" target="_blank">
+							<div class="hvr-grow-rotate temp-4-container-square" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/disp/d7fc21115174981.60f653094b266.jpg');">
+								<br>
+							</div>
+							<h1 class="text-dark mt-3">Lake Lotawana</h1></a>
+						</div>
+						<div class="col-md-4 text-center py-1">
+							<a class="text-center" href="https://www.yourbestkansascitylife.com/areas/Lexington" rel="noopener noreferrer" target="_blank">
+							<div class="hvr-grow-rotate temp-4-container-square" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8eab4e115174981.60f65f38642ea.jpg');">
+								<br>
+							</div>
+							<h1 class="text-dark mt-3">Lexington</h1></a>
+						</div>
+						<div class="col-md-4 text-center py-1 mb-5">
+							<a class="text-center" href="https://www.yourbestkansascitylife.com/areas/Liberty" rel="noopener noreferrer" target="_blank">
+							<div class="hvr-grow-rotate temp-4-container-square" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/237163115174981.60f57a5e80194.jpg');">
+								<br>
+							</div>
+							<h1 class="text-dark mt-3">Liberty</h1></a>
+						</div>
+						<div class="col-md-4 text-center py-1 mb-5">
+							<a class="text-center" href="https://www.yourbestkansascitylife.com/areas/Raytown" rel="noopener noreferrer" target="_blank">
+							<div class="hvr-grow-rotate temp-4-container-square" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/disp/9ef47d115174981.60f65f3865ac4.jpg');">
+								<br>
+							</div>
+							<h1 class="text-dark mt-3">Raytown</h1></a>
+						</div>
+						<div class="col-md-4 text-center py-1 mb-5">
+							<a class="text-center" href="https://www.yourbestkansascitylife.com/areas/Overland+Park" rel="noopener noreferrer" target="_blank">
+							<div class="hvr-grow-rotate temp-4-container-square" style="background: url('https://mir-s3-cdn-cf.behance.net/project_modules/disp/7fed95115174981.60f65f3864926.jpg');">
+								<br>
+							</div>
+							<h1 class="text-dark mt-3">Overland Park</h1></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!-- FEATURED AREAS ENDS -->
+		<!-- BIO AREA START -->
+		<section class="template5 temp-4-img-bg1">
+			<div class="gray">
+				<div class="container">
+					<div class="row py-5 justify-content-md-center">
+						<div class="row justify-content-md-center">
+							<div class="col-md-5 text-center pt-5">
+								<div class="row">
+									<div class="col-md-3 social">
+										<div class="circle" style="margin-bottom: -50px;">
+											<a class="hvr-radial-out" href="https://www.facebook.com/jordan.hunter.96387189/" rel="noopener noreferrer" target="_blank"><i class="fa fa-facebook-f"></i></a>
+										</div>
+										<div class="circle" style="margin-bottom: -50px;">
+											<a class="hvr-radial-out" href="http://www.youtube.com/#" rel="noopener noreferrer" target="_blank"><i class="fa fa-youtube"></i></a>
+										</div>
+										<div class="circle" style="margin-bottom: -50px;">
+											<a class="hvr-radial-out" href="http://www.pinterest.com/#" rel="noopener noreferrer" target="_blank"><i class="fa fa-linkedin"></i></a>
+										</div>
+										<div class="circle" style="margin-bottom: -50px;">
+											<a class="hvr-radial-out" href="https://www.instagram.com/yourbestkansascitylife" rel="noopener noreferrer" target="_blank"><i class="fa fa-instagram"></i></a>
+										</div>
+									</div>
+									<div class="col-md-9">
+										<img alt="" class="fr-fil fr-dib" src="https://kunversion-frontend-blog.s3.amazonaws.com/images/customarea-yourbestkansascitylife.com-1083572-4d75a658ef82247761d23d41db6cae2540a658f3.png" style="width: 100%;">
+										<h4><a href="https://www.yourbestkansascitylife.com/contact.php">(816) 509-7680</a></h4>
+										<h6>Jordan Hunter, Realtor</h6>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-7 text-left mt-5">
+								<h1 class="bio-name mb-3"><span style="font-size: 60px;">Jordan Hunter</span></h1>
+								<h5><span style="font-size: 30px;">Real Estate Agent</span></h5>
+								<p><span style="font-size: 18px;">Hey there! I'm Jordan Hunter. I work with individuals and families in the Greater Kansas City Metro (Kansas and Missouri) who are looking for their perfect home. The best praise I've ever received from a client was: “I enjoyed working with Jordan. She was so knowledgeable, patient, and down-to-earth. There were no pushy sales tactics and she really got to know what we were looking for (even though we weren’t sure of that ourselves for the longest time!) and ended up networking to find us our perfect first home.” Helping people to make their home buying dreams a reality like that, makes me so proud and drives everything I do! If you're looking for a Realtor who is resourceful and speaks your language (even if you’re not exactly sure what that is yet), I'd love to work with you, too! I’ve helped many first-time home buyers, seasoned home buyers and those shifting into and within the luxury market find their perfect homes. I am licensed in Missouri and Kansas. When I'm not helping people find their dream home, I can be found playing with my Granddaughter, doing yoga or cycling and maybe even enjoying a glass of wine. Want to learn more about how we can work together? Call or text me anytime at 816-509-7680. Thanks for reading my story!</span></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section><!-- BIO AREA ENDS -->
+		<!-- GUIDE AREA STARTS -->
+		<section class="template1 temp-4-img-bg1">
+			<div class="container-fluid">
+				<div class="text-center">
+					<h2 class="p-5"><strong>Let Us Guide You</strong></h2>
+				</div>
+				<div class="row">
+					<div class="col-sm-3 p-0">
+						<a href="https://www.yourbestkansascitylife.com/index.php?rtype=map">
+						<div class="content-bg1 temp-4-hvr-trim temp-4-img-1">
+							<div class="content-overlay1">
+								<div class="content1">
+									<h1 class="text-white py-2">BUYING A HOME</h1>
+								</div>
+							</div>
+						</div></a>
+					</div>
+                    <div class="col-sm-3 p-0">
+                        <div class="content-bg1 temp-4-hvr-trim temp-4-img-2">
+                            <div class="content-overlay1">
+                                <div class="content1">
+                                    <h1 class="text-white py-2"><a class="temp-4-hvr-underline-from-left" href="https://www.yourbestkansascitylife.com/sell.php" rel="noopener noreferrer" target="_blank">SELLING HOME</a></h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 p-0">
+                        <div class="content-bg1 temp-4-hvr-trim temp-4-img-3">
+                            <div class="content-overlay1">
+                                <div class="content1">
+                                    <h1 class="text-white py-2"><a class="temp-4-hvr-underline-from-left" href="https://www.yourbestkansascitylife.com/contact.php" rel="noopener noreferrer" target="_blank">GET IN TOUCH</a></h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 p-0">
+                        <div class="content-bg1 temp-4-hvr-trim temp-4-img-4">
+                            <div class="content-overlay1">
+                                <div class="content1">
+                                    <h1 class="text-white py-2"><a class="temp-4-hvr-underline-from-left" href="https://www.yourbestkansascitylife.com/resources/buyer-guide-" rel="noopener noreferrer" target="_blank">BUYERS GUIDE</a></h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- GUIDE AREA ENDS -->
+				</div>
+			</div>
+		</section>
+	</div>
+	<!-- TESTIMONIAL AREA STARTS -->
+	<section class="template5 temp-4-img-bg1">
+		<div class="bg-dark py-5">
+			<div class="container">
+				<h1 class="text-center text-white">Testimonial</h1>
+				<div class="carousel slide" data-ride="carousel" id="testimonial5">
+					<div class="carousel-inner testimonial-slider3">
+						<div class="carousel-item">
+							<div class="testimonial5">
+								<div class="pic"><img class="fr-fil fr-dib" src="https://kunversion-frontend-blog.s3.amazonaws.com/images/customarea-josephinecox.exprealty.com-275765-7493b5309e80daba7e284f636d24783f241200cc.jpeg"></div>
+								<h3 class="title">-Jonathan K.</h3><span class="text-white">Real Estate Agent</span>
+								<p class="description pt-5">[AGENT] was so helpful for my family and I throughout the process. [AGENT’s] communication and negotiation skills helped us in a very tough market and we are very grateful! I would recommend [AGENT] to anyone looking to buy or sell!</p>
+							</div>
+						</div>
+						<div class="carousel-item active">
+							<div class="testimonial5">
+								<div class="pic"><img class="fr-fil fr-dib" src="https://kunversion-frontend-blog.s3.amazonaws.com/images/customarea-josephinecox.exprealty.com-275765-3122d70b6eed5af9d58b98c4ef9e74d4f66f7e09.png"></div>
+								<h3 class="title">Katherine P.</h3><span class="text-white">Real Estate Agent</span>
+								<p class="description pt-5">When my husband and I first thought about the home buying process, we were initially intimidated by stories we had heard from our friends and family. However, working with [AGENT] has been an absolutely amazing experience! As first time home buyers, we felt educated, confident and comfortable working with [AGENT!]</p>
+							</div>
+							<div class="reviewer">
+								<p><br></p>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<div class="testimonial5">
+								<div class="pic"><img class="fr-fil fr-dib" src="https://kunversion-frontend-blog.s3.amazonaws.com/images/customarea-josephinecox.exprealty.com-275765-88670842085c2ce702f46d0e8d5e454febf07a0b.png"></div>
+								<h3 class="title">-Emma C.</h3><span class="text-white">Real Estate Agent</span>
+								<p class="description pt-5">Selling our home was fast and efficient. We had multiple offers on our home within a few days and everything from the marketing to the negotiations were handled quickly and without any issues. Thank you [AGENT] for making this process easy.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</section>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+    
+</body>
+</html>

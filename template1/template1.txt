@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<link href="https://gerrifranchini.exprealty.com" rel="canonical">
+	<link href="https://alongreyber.github.io/KVCore-Sites/out.css" rel="stylesheet" type="text/css">
+	<script src="https://kit.fontawesome.com/7d31035b52.js">
+	</script>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap-v4-grid-only@1.0.0/dist/bootstrap-grid.css" rel="stylesheet">
+	<link href="https://d133rs42u5tbg.cloudfront.net/hero/assets/css/kv-bluesteel.css?v=121" rel="stylesheet" type="text/css">
+	<link href="https://d133rs42u5tbg.cloudfront.net/hero/assets/css/widgets.css?v=121" rel="stylesheet" type="text/css"><!-- *******Custom Style********* -->
+	<link href="https://gitcdn.link/cdn/salescommanders/SemiCustomFiles/main/template1/global.css" rel="stylesheet">
+   <!-- Start Copying css here -->
+	<!-- <link rel="stylesheet" href="globalstyle.css"> -->
+   
+   <!-- <link rel="stylesheet" href="https://raw.githack.com/Mahtabhossain69/kvcore_css_files/main/customStyle03.css"> -->
+	<!-- <script src="https://raw.githack.com/Mahtabhossain69/kvcore_css_files/main/customScript03.js"></script> -->
+	<!-- <script src="./customScript03.js"></script> -->
+	<link href="https://wowjs.uk/css/libs/animate.css" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js">
+	</script>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" media="all" rel="stylesheet">
+	<link href="https://d133rs42u5tbg.cloudfront.net/common/assets/bootstrap-tokenfield/css/bootstrap-tokenfield.css" rel="stylesheet" type="text/css">
+	<script src="https://wowjs.uk/dist/wow.min.js">
+	</script>
+	<script>
+	     new WOW().init();
+	</script>
+	<script src="https://d133rs42u5tbg.cloudfront.net/hero/assets/js/bootstrap.min.js">
+	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js">
+	</script><!-- END OF Style -->
+	<title></title>
+</head>
+<body>
+	<!-- FEATURED AREAS START -->
+	<section>
+		<div class="row no-gutters temp-1-featured-area px-5">
+			<div class="col-lg-12 text-center mx-auto pt-5 pb-5">
+				<div class="temp-1-subtitle">
+					EXPLORE
+				</div>
+				<div class="temp-1-title">
+					Featured Areas
+				</div>
+				<div class="temp-1-area-para">
+					The right home is out there, waiting. Let us help make you the connection. Please click one of the communities below to get started.
+				</div>
+			</div><!-- 1st Row of Areas Start -->
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 p-3">
+				<a class="temp-1-area-search temp-1-img-hover-zoom--brightness" href="https://annaaljabiry.exprealty.com/areas/davis/ca">
+               <span class="temp-1-area-overlay">Davis</span> 
+               <img class="temp-1-area-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d44294124045707.60fbb4ad90343.jpg">
+            </a>
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 p-3">
+				<a class="temp-1-area-search temp-1-img-hover-zoom--brightness" href="https://annaaljabiry.exprealty.com/areas/dixon/ca">
+               <span class="temp-1-area-overlay">Dixon</span> 
+               <img class="temp-1-area-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/298e41124045707.60fbb4ad8e860.jpg">
+            </a>
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 p-3">
+				<a class="temp-1-area-search temp-1-img-hover-zoom--brightness" href="https://annaaljabiry.exprealty.com/areas/el+macero/ca">
+               <span class="temp-1-area-overlay">El Macero</span> 
+               <img class="temp-1-area-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1418e6124045707.60fbb4ad8fa02.jpg"></a>
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 p-3">
+				<a class="temp-1-area-search temp-1-img-hover-zoom--brightness" href="https://annaaljabiry.exprealty.com/areas/elk+grove/ca">
+               <span class="temp-1-area-overlay">Elk Grove</span> <img class="temp-1-area-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/83b9c8124045707.60fbb4ad914de.jpg"></a>
+			</div><!-- 1st Row of Areas End -->
+			<!-- 2nd Row of Areas Start -->
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 p-3">
+				<a class="temp-1-area-search temp-1-img-hover-zoom--brightness" href="https://annaaljabiry.exprealty.com/areas/folsom/ca">
+               <span class="temp-1-area-overlay">Folsom</span> <img class="temp-1-area-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a2d0f4124045707.60fbb4ad8d865.jpg"></a>
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 p-3">
+				<a class="temp-1-area-search temp-1-img-hover-zoom--brightness" href="https://annaaljabiry.exprealty.com/areas/rocklin/ca">
+               <span class="temp-1-area-overlay">Rocklin</span> <img class="temp-1-area-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0ba33b124045707.60fbb4ad8f34a.jpg"></a>
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 p-3">
+				<a class="temp-1-area-search temp-1-img-hover-zoom--brightness" href="https://annaaljabiry.exprealty.com/areas/roseville/ca">
+               <span class="temp-1-area-overlay">Roseville</span> <img class="temp-1-area-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79a13c124045707.60fbb4ad8dfaa.jpg"></a>
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 p-3">
+				<a class="temp-1-area-search temp-1-img-hover-zoom--brightness" href="https://annaaljabiry.exprealty.com/areas/vacaville/ca">
+               <span class="temp-1-area-overlay">Vacaville</span> <img class="temp-1-area-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/602a31124045707.60fbb4ad907e4.jpg"></a>
+			</div><!-- 2nd Row of Areas End -->
+		</div>
+	</section><!-- FEATURED AREAS END -->
+	<!-- ABOUT US AREA START -->
+	<section>
+		<div class="temp-1-intro-container">
+			<div class="row">
+				<div class="col-lg-5 col-md-12">
+					<div class="temp-1-thumbnail"><img alt="About Us" class="w-100" src="https://i.ibb.co/qjWrmby/about-us.png"></div>
+				</div>
+				<div class="col-lg-7 col-md-12 pt-5">
+					<div class="temp-1-about-container">
+						<h2 class="temp-1-about-title">Anna Aljabiry</h2>
+						<h3>Realtor</h3>
+						<p class="temp-1-about-description">Anna will help you sell your home at the highest value and sell fast. She will help you buy a home and get a great deal whether you are a first home buyer or a second home buyer. Are you an investor? Anna has done all kinds of renovation projects, minor and major, auction and REOs. She has built a network of renovation professionals and handymen when needed. You will love how responsive she is at all times. Call or text (530) 400-0496 or email homes@ListBuyRealEstate.com Anna said: "The best reward I could get at the end of my day is a note of satisfaction from a client... a grateful smile I see on a client's face gives me the fuel and motivation to serve more people as much as I could to bring them happiness for selling their home or buying a home. This is who I am... very passionate about the interests of the people I work with. Going through extreme hardship in my early years of building my life and my career helps me come closer to understanding people's hardships and life stories. I am a mother, a pet lover, and a community advocate. I can't wait to help you get the house of your dreams, sell your house for top dollar, or accomplish any real estate investment goal."</p>
+						
+						<div class="temp-1-icons-container">
+							<div class="temp-1-about-icon">
+                        <a href="https://www.facebook.com/DavisHomesEXP" style="color: #fff;">
+                           <i class="fa fa-facebook-f"></i></a>
+								
+							</div>
+							<div class="temp-1-about-icon">
+                        <a href="https://www.instagram.com/annaaljabiry/" style="color: #fff;">
+								   <i class="fa fa-instagram"></i>
+                        </a>
+							</div>
+							<div class="temp-1-about-icon">
+                        <a href="https://www.linkedin.com/in/aljabiry-anna/" style="color: #fff;">
+                           <i class="fa fa-linkedin"></i>
+                        </a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section><!-- ABOUT US AREA END -->
+	<!-- GUIDE AREA START -->
+	<section>
+		<div class="temp-1-guide-container">
+			<div class="row no-gutters">
+				<div class="col-lg-3">
+					<a class="temp-1-guide-search temp-1-img-hover-zoom--brightness" href="/index.php?advanced=1&display=Raleigh&areas[]=city%3ARaleigh&custombox=&leadid=0&types[]=1&types[]=2&types[]=31&beds=0&baths=0&min=0&max=100000000&minfootage=0&maxfootage=30000&minacres=0&maxacres=3000&yearbuilt=0&maxyearbuilt=2020&walkscore=0&keywords=&rtype=grid&sortby=listings.price+DESC#rslt"><span class="temp-1-guide-overlay-large">Buying a Home</span> <img class="temp-1-guide-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/58bee9124049471.60fbcd61be41c.png"></a>
+				</div>
+				<div class="col-lg-3">
+					<a class="temp-1-guide-search temp-1-img-hover-zoom--brightness" href="/index.php?advanced=1&display=Raleigh&areas[]=city%3ARaleigh&custombox=&leadid=0&types[]=1&types[]=2&types[]=31&beds=0&baths=0&min=0&max=100000000&minfootage=0&maxfootage=30000&minacres=0&maxacres=3000&yearbuilt=0&maxyearbuilt=2020&walkscore=0&keywords=&rtype=grid&sortby=listings.price+DESC#rslt"><span class="temp-1-guide-overlay-large">Selling a Home</span> <img class="temp-1-guide-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/b1ca1b124045707.60fbb01b655d5.jpg"></a>
+				</div>
+				<div class="col-lg-3">
+					<a class="temp-1-guide-search temp-1-img-hover-zoom--brightness" href="/index.php?advanced=1&display=Raleigh&areas[]=city%3ARaleigh&custombox=&leadid=0&types[]=1&types[]=2&types[]=31&beds=0&baths=0&min=0&max=100000000&minfootage=0&maxfootage=30000&minacres=0&maxacres=3000&yearbuilt=0&maxyearbuilt=2020&walkscore=0&keywords=&rtype=grid&sortby=listings.price+DESC#rslt"><span class="temp-1-guide-overlay-large">Get In Touch</span> <img class="temp-1-guide-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/4e19ef124045707.60fbb01b65f67.jpg"></a>
+				</div>
+				<div class="col-lg-3">
+					<a class="temp-1-guide-search temp-1-img-hover-zoom--brightness" href="/index.php?advanced=1&display=Raleigh&areas[]=city%3ARaleigh&custombox=&leadid=0&types[]=1&types[]=2&types[]=31&beds=0&baths=0&min=0&max=100000000&minfootage=0&maxfootage=30000&minacres=0&maxacres=3000&yearbuilt=0&maxyearbuilt=2020&walkscore=0&keywords=&rtype=grid&sortby=listings.price+DESC#rslt"><span class="temp-1-guide-overlay-large">Buyers Guide</span> <img class="temp-1-guide-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ed726124045707.60fbb01b62725.jpg"></a>
+				</div>
+			</div>
+		</div>
+	</section><!-- GUIDE AREA END -->
+	<!-- TESTIMONIAL AREA START -->
+	<section>
+		<div class="temp-1-testimonial-section py-5">
+			<div class="text-center">
+				<h2>Testimonial</h2>
+			</div>
+			<div class="row py-5">
+				<div class="col-md-12">
+					<div class="carousel slide text-center" data-ride="carousel" id="testimonial-001">
+						<div class="carousel-inner">
+							<div class="carousel-item active">
+								<div class="testimonial-container py-5 px-5">
+									<div style="color: yellow;">
+										<span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span>
+									</div>
+									<!-- <div class="bio-image-container"><img alt="Dummy" class="temp-1-bio-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a3961b124045707.60fbb65265a14.jpg"></div> -->
+									<div class="review-text mt-5 mb-3">
+										<i>AMAZING, absolutely amazing! Anna is professional, personable and extremely knowledgeable regarding locations and house values. We just can’t speak highly enough of her. She is our first reference whenever someone asks about purchasing a home. Anna was patient with us as we worked out what we really wanted in our forever home and we eventually found it!</i>
+									</div>
+									<div class="reviewer">
+										-Jodie Moorthy
+									</div>
+								</div>
+							</div>
+							<div class="carousel-item">
+								<div class="testimonial-container py-5 px-5">
+									<div style="color: yellow;">
+										<span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span>
+									</div>
+									<!-- <div class="bio-image-container"><img alt="Dummy" class="bio-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f0dec0124045707.60fbb6526680c.jpg"></div> -->
+									<div class="review-text mt-5 mb-3">
+										<i>Anna was our real estate agent for a property that we purchased in Davis in 2021. She is personable, knowledgeable and patient. I lost track of number of properties Anna showed my wife and I over many weekends. She wanted to make sure we understand all the options and make informed purchase. Through out the entire process, Anna was tremendously helpful. Her wealth of Real Estate knowledge is impressive and we were happy to have Anna on our side!</i>
+									</div>
+									<div class="reviewer">
+										-James Li
+									</div>
+								</div>
+							</div>
+							<div class="carousel-item">
+								<div class="testimonial-container py-5 px-5">
+									<div style="color: yellow;">
+										<span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span>
+									</div>
+									<!-- <div class="bio-image-container"><img alt="Dummy" class="bio-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5b9e05124045707.60fbb6526609f.png"></div> -->
+									<div class="review-text mt-5 mb-3">
+										<i>We bought our first house of our life and I would say We were luckiest that we found Anna as our realtor agent. She is very responsive, very quick, smart and very nice person. I would highly recommend her if you are buying house. The most important thing about her is when she is with you she will give her more than 100% response to find a perfect house for you. ☺️</i>
+									</div>
+									<div class="reviewer">
+										-Ruchita Uttarwar
+									</div>
+								</div>
+							</div>
+							<div class="carousel-item">
+								<div class="testimonial-container py-5 px-5">
+									<div style="color: yellow;">
+										<span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span>
+									</div>
+									<!-- <div class="bio-image-container"><img alt="Dummy" class="bio-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5b9e05124045707.60fbb6526609f.png"></div> -->
+									<div class="review-text mt-5 mb-3">
+										<i>Anna was very hands on during the sale of my house, especially while getting the house ready to be shown. I have sold and bought about 8 houses and none of my realtors worked as hard for me as she did . Solid 10.</i>
+									</div>
+									<div class="reviewer">
+										-Cristina De Mattos
+									</div>
+								</div>
+							</div>
+							<div class="carousel-item">
+								<div class="testimonial-container py-5 px-5">
+									<div style="color: yellow;">
+										<span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span> <span class="fa fa-star checkedStar"></span>
+									</div>
+									<!-- <div class="bio-image-container"><img alt="Dummy" class="bio-image" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5b9e05124045707.60fbb6526609f.png"></div> -->
+									<div class="review-text mt-5 mb-3">
+										<i>We were so, so very lucky to find Anna! We were hesitant to look at houses during COVID, but Anna followed all regulations and put us at ease. She kept in constant communication with us and is the reason we were able to close so quickly and seamlessly. I could not find a pool inspector who could come within the timeframe needed. Anna was able to find someone to drive from Davis to Sacramento in order to get the pool inspected so we could close on time. There were also a few hiccups with the sellers, but Anna took them in stride and was a wonderful advocate for us in the negotiating process. I will recommend Anna to anyone I know in the area who is looking to buy or sell, with no hesitation. Thank you, Anna.</i>
+									</div>
+									<div class="reviewer">
+										-Marissa Hughes
+									</div>
+								</div>
+							</div>
+						</div><a class="carousel-control-prev" data-slide="prev" href="#testimonial-001" role="button"><span aria-hidden="true" class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span></a> <a class="carousel-control-next" data-slide="next" href="#testimonial-001" role="button"><span aria-hidden="true" class="carousel-control-next-icon"></span> <span class="sr-only">Next</span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section><!-- TESTIMONIAL AREA END -->
+	<!-- VIDEO AREA START -->
+	<section>
+		<div class="row no-gutters temp-1-video-area">
+			<div class="col-xs-12 text-center mx-auto pt-5">
+				<div class="temp-1-subtitle">
+					EXPLORE
+				</div>
+				<div class="temp-1-title">
+					Featured Areas
+				</div>
+				<div class="temp-1-area-para">
+					The right home is out there, waiting. Let us help make you the connection. Please click one of the communities below to get started.
+				</div>
+			</div>
+			<div class="col-xs-12 mx-auto d-flex justify-content-center pb-5 pt-5">
+				<iframe class="temp-1-videoFrame" src="https://www.youtube.com/embed/ATSgwZXOuUo?autoplay=1&mute=1&loop=1&controls=0"></iframe>
+			</div>
+		</div>
+	</section><!-- VIDEO AREA END -->
+	<!-- Owl Carousal Script Start -->
+	<script>
+	     $(document).ready(function () {
+	       var zindex = 10;
+	       $("div.card").click(function (e) {
+	         e.preventDefault();
+	         var isShowing = false;
+	         if ($(this).hasClass("show")) {
+	           isShowing = true;
+	         }
+	         if ($("div.cards").hasClass("showing")) {
+	           // a card is already in view
+	           $("div.card.show").removeClass("show");
+	           if (isShowing) {
+	             // this card was showing - reset the grid.
+	             $("div.cards").removeClass("showing");
+	           } else {
+	             // this card isn't showing - get in with it
+	             $(this)
+	               .css({
+	                 zIndex: zindex,
+	               })
+	               .addClass("show");
+	           }
+	           zindex++;
+	         } else {
+	           // no cards in view
+	           $("div.cards").addClass("showing");
+	           $(this)
+	             .css({
+	               zIndex: zindex,
+	             })
+	             .addClass("show");
+	           zindex++;
+	         }
+	       });
+	     });
+	</script> 
+	<script>
+	     jQuery(document).ready(function ($) {
+	       var feedbackSlider = $(".feedback-slider");
+	       feedbackSlider.owlCarousel({
+	         items: 1,
+	         nav: true,
+	         dots: true,
+	         autoplay: true,
+	         loop: true,
+	         mouseDrag: true,
+	         touchDrag: true,
+	         navText: [
+	           "<i class='fa fa-long-arrow-left'><\/i>",
+	           "<i class='fa fa-long-arrow-right'><\/i>",
+	         ],
+	         responsive: {
+	           // breakpoint from 767 up
+	           767: {
+	             nav: true,
+	             dots: false,
+	           },
+	         },
+	       });
+	     
+	       feedbackSlider.on("translate.owl.carousel", function () {
+	         $(".feedback-slider-item h3")
+	           .removeClass("animated fadeIn")
+	           .css("opacity", "0");
+	         $(
+	           ".feedback-slider-item img, .feedback-slider-thumb img, .customer-rating"
+	         )
+	           .removeClass("animated zoomIn")
+	           .css("opacity", "0");
+	       });
+	     
+	       feedbackSlider.on("translated.owl.carousel", function () {
+	         $(".feedback-slider-item h3")
+	           .addClass("animated fadeIn")
+	           .css("opacity", "1");
+	         $(
+	           ".feedback-slider-item img, .feedback-slider-thumb img, .customer-rating"
+	         )
+	           .addClass("animated zoomIn")
+	           .css("opacity", "1");
+	       });
+	       feedbackSlider.on("changed.owl.carousel", function (property) {
+	         var current = property.item.index;
+	         var prevThumb = $(property.target)
+	           .find(".owl-item")
+	           .eq(current)
+	           .prev()
+	           .find("img")
+	           .attr("src");
+	         var nextThumb = $(property.target)
+	           .find(".owl-item")
+	           .eq(current)
+	           .next()
+	           .find("img")
+	           .attr("src");
+	         var prevRating = $(property.target)
+	           .find(".owl-item")
+	           .eq(current)
+	           .prev()
+	           .find("span")
+	           .attr("data-rating");
+	         var nextRating = $(property.target)
+	           .find(".owl-item")
+	           .eq(current)
+	           .next()
+	           .find("span")
+	           .attr("data-rating");
+	         $(".thumb-prev").find("img").attr("src", prevThumb);
+	         $(".thumb-next").find("img").attr("src", nextThumb);
+	         $(".thumb-prev")
+	           .find("span")
+	           .next()
+	           .html(prevRating + '<i class="fa fa-star"><\/i>');
+	         $(".thumb-next")
+	           .find("span")
+	           .next()
+	           .html(nextRating + '<i class="fa fa-star"><\/i>');
+	       });
+	       $(".thumb-next").on("click", function () {
+	         feedbackSlider.trigger("next.owl.carousel", [300]);
+	         return false;
+	       });
+	       $(".thumb-prev").on("click", function () {
+	         feedbackSlider.trigger("prev.owl.carousel", [300]);
+	         return false;
+	       });
+	     }); //end ready
+	</script> <!-- Owl Carousal Script End -->
+	 <!-- END OF BODY -->
+</body>
+</html>

@@ -1,0 +1,233 @@
+<div class="widgetWrapper">
+   <link rel="canonical" href="https://gerrifranchini.exprealty.com">
+   <link href="https://alongreyber.github.io/KVCore-Sites/out.css" rel="stylesheet" type="text/css">
+   <!-- jQuery 1.8 or later, 33 KB -->
+   <link rel="stylesheet" href="https://raw.githack.com/Mahtabhossain69/test/master/bootstrap-grid.css">
+   <link href="https://d133rs42u5tbg.cloudfront.net/hero/assets/css/kv-bluesteel.css?v=121" rel="stylesheet" type="text/css">
+   <link href="https://d133rs42u5tbg.cloudfront.net/hero/assets/css/widgets.css?v=121" rel="stylesheet" type="text/css">
+   <!-- Start Copying css here -->
+   <link rel="stylesheet" href="https://gitcdn.link/cdn/salescommanders/SemiCustomFiles/main/template5/global.css">
+   <link rel="stylesheet" href="https://wowjs.uk/css/libs/animate.css">
+   <link href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" rel="stylesheet" media="all">
+   <link href="https://d133rs42u5tbg.cloudfront.net/common/assets/bootstrap-tokenfield/css/bootstrap-tokenfield.css" rel="stylesheet" type="text/css">
+   <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+   <section>
+      <div class="row no-gutters temp-5-featured-area py-5">
+         <div class="col-12 pb-5 text-center">
+            <h2 class="title">Featured Areas</h2>
+         </div>
+         <div class="col-12">
+            <div class="area">
+               <figure class="temp-5-area__item temp-5-area__item--1 img-hover-zoom">
+                  <a href="https://nathanholman.exprealty.com/areas/Phoenix"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/df7277124045707.60fbb4ad8e41c.jpg" class="area__img fr-fil fr-dib" alt="Image 1"></a>
+                  <div class="info-box">
+                     <a href="https://nathanholman.exprealty.com/areas/Phoenix"><span class="category-area">House</span></a>
+                     <h3 class="place"><a href="https://nathanholman.exprealty.com/areas/Phoenix"></a><a href="https://nathanholman.exprealty.com/areas/Phoenix" target="_blank">&nbsp;Phoenix&nbsp;</a></h3>
+                     <a href="https://nathanholman.exprealty.com/areas/Phoenix" target="_blank">&nbsp;</a>
+                  </div>
+                  <a href="https://nathanholman.exprealty.com/areas/Phoenix" target="_blank">&nbsp;</a>
+               </figure>
+               <figure class="temp-5-area__item temp-5-area__item--2 img-hover-zoom">
+                  <a href="https://nathanholman.exprealty.com/areas/Paradise+Valley"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/c24fd2115174981.60510106f3ac6.jpg" class="area__img fr-fil fr-dib" alt="Image 2"></a>
+                  <div class="info-box">
+                     <a href="https://nathanholman.exprealty.com/areas/Paradise+Valley"><span class="category-area">House</span></a>
+                     <h3 class="place"><a href="https://nathanholman.exprealty.com/areas/Paradise+Valley"></a><a href="https://nathanholman.exprealty.com/areas/Paradise+Valley" target="_blank">&nbsp;Paradise Valley&nbsp;</a></h3>
+                  </div>
+               </figure>
+               <figure class="temp-5-area__item temp-5-area__item--3 img-hover-zoom">
+                  <a href="https://nathanholman.exprealty.com/areas/Scottsdale"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9f9f88115174981.60f653094905f.jpg" class="area__img fr-fil fr-dib" alt="Image 3"></a>
+                  <div class="info-box">
+                     <a href="https://nathanholman.exprealty.com/areas/Scottsdale"><span class="category-area">House</span></a>
+                     <h3 class="place"><a href="https://nathanholman.exprealty.com/areas/Scottsdale"></a><a href="https://nathanholman.exprealty.com/areas/Scottsdale" target="_blank">&nbsp;Scottsdale&nbsp;</a></h3>
+                  </div>
+               </figure>
+               <figure class="temp-5-area__item temp-5-area__item--4 img-hover-zoom">
+                  <a href="https://nathanholman.exprealty.com/areas/Tempe"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5bd89b115174981.60642f30c9e39.jpg" class="area__img fr-fil fr-dib" alt="Image 4"></a>
+                  <div class="info-box">
+                     <a href="https://nathanholman.exprealty.com/areas/Tempe"><span class="category-area">House</span></a>
+                     <h3 class="place"><a href="https://nathanholman.exprealty.com/areas/Tempe"></a><a href="https://nathanholman.exprealty.com/areas/Tempe" target="_blank">&nbsp;Tempe&nbsp;</a></h3>
+                  </div>
+               </figure>
+               <figure class="temp-5-area__item temp-5-area__item--5 img-hover-zoom" href="">
+                  <a href="https://nathanholman.exprealty.com/areas/Glendale"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/adb168115174981.60642eac6b86d.jpg" class="area__img fr-fil fr-dib" alt="Image 5"></a>
+                  <div class="info-box">
+                     <a href="https://nathanholman.exprealty.com/areas/Glendale"><span class="category-area">House</span></a>
+                     <h3 class="place"><a href="https://nathanholman.exprealty.com/areas/Glendale"></a><a href="https://nathanholman.exprealty.com/" target="_blank">&nbsp;Glendale&nbsp;</a></h3>
+                  </div>
+               </figure>
+
+               <figure class="temp-5-area__item temp-5-area__item--6 img-hover-zoom">
+                  <a href="https://nathanholman.exprealty.com/index.php?advanced=1&display=Arcadia&area_keyword=Arcadia&custombox=&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#rslt"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/90343e115174981.6081ddf1b186c.jpg" class="area__img fr-fil fr-dib" alt="Image 6"></a>
+                  <div class="info-box">
+                     <a href="https://nathanholman.exprealty.com/index.php?advanced=1&display=Arcadia&area_keyword=Arcadia&custombox=&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#rslt"><span class="category-area">House</span></a>
+                     <h3 class="place"><a href="https://nathanholman.exprealty.com/index.php?advanced=1&display=Arcadia&area_keyword=Arcadia&custombox=&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#rslt"></a><a href="https://nathanholman.exprealty.com/index.php?advanced=1&display=Arcadia&area_keyword=Arcadia&custombox=&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#rslt" target="_blank">&nbsp;Arcadia&nbsp;</a></h3>
+                  </div>
+               </figure>
+
+               
+               <figure class="temp-5-area__item temp-5-area__item--7 img-hover-zoom">
+                  <a href="https://nathanholman.exprealty.com/index.php?advanced=1&area_keyword=Phoenix+Central+Avenue&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#rslt"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fb121c115174981.60f5696f42af6.jpg" class="area__img fr-fil fr-dib" alt="Image 6"></a>
+                  <div class="info-box">
+                     <a href="https://nathanholman.exprealty.com/index.php?advanced=1&area_keyword=Phoenix+Central+Avenue&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#rslt"><span class="category-area">House</span></a>
+                     <h3 class="place"><a href="https://nathanholman.exprealty.com/index.php?advanced=1&area_keyword=Phoenix+Central+Avenue&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#rslt"></a><a href="https://nathanholman.exprealty.com/index.php?advanced=1&area_keyword=Phoenix+Central+Avenue&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#rslt" target="_blank">&nbsp;Phoenix Central Avenue&nbsp;</a></h3>
+                  </div>
+               </figure>
+               <figure class="temp-5-area__item temp-5-area__item--8 img-hover-zoom" href="">
+                  <a href="https://nathanholman.exprealty.com/index.php?advanced=1&area_keyword=Phoenix+Country+Club&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#rslt"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6b1416115174981.60f5696f4439f.png" class="area__img fr-fil fr-dib" alt="Image 6"></a>
+                  <div class="info-box">
+                     <a href="https://nathanholman.exprealty.com/index.php?advanced=1&area_keyword=Phoenix+Country+Club&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#rslt"><span class="category-area">House</span></a>
+                     <h3 class="place"><a href="https://nathanholman.exprealty.com/index.php?advanced=1&area_keyword=Phoenix+Country+Club&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#rsltt"></a><a href="https://nathanholman.exprealty.com/index.php?advanced=1&area_keyword=Phoenix+Country+Club&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#rslt" target="_blank">&nbsp;Phoenix Country Club&nbsp;</a></h3>
+                  </div>
+               </figure>
+               <figure class="temp-5-area__item temp-5-area__item--9 img-hover-zoom" href="">
+                  <a href="https://nathanholman.exprealty.com/index.php?advanced=1&area_keyword=Phoenix+Country+Club&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#6278708"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79a13c124045707.60fbb4ad8dfaa.jpg" class="area__img fr-fil fr-dib" alt="Image 6"></a>
+                  <div class="info-box">
+                     <a href="https://nathanholman.exprealty.com/index.php?advanced=1&area_keyword=Phoenix+Country+Club&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#6278708"><span class="category-area">House</span></a>
+                     <h3 class="place"><a href="https://nathanholman.exprealty.com/index.php?advanced=1&area_keyword=Phoenix+Country+Club&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#6278708"></a><a href="https://nathanholman.exprealty.com/index.php?advanced=1&area_keyword=Phoenix+Country+Club&types%5B%5D=1&types%5B%5D=2&types%5B%5D=3&types%5B%5D=5&types%5B%5D=31&beds=0&baths=0&min=0&max=100000000&rtype=map#6278708" target="_blank">&nbsp;Phoenix Historic District&nbsp;</a></h3>
+                  </div>
+               </figure>
+            </div>
+         </div>
+      </div>
+   </section>
+   <section>
+      <div class="row no-gutters bio-area py-5">
+         <div class="col-md-4 col-sm-12">
+            <div class="bio-card py-2">
+               <div class="bio-image-container py-4"><img class="bio-image fr-dib" src="https://kunversion-frontend-blog.s3.amazonaws.com/images/customarea-nathanholman.exprealty.com-1099932-9f999bfa4a72f8ea7898ef6c891f6cd2a00dbd21.jpg" alt="Dummy"></div>
+               <h3 class="bio-name text-center"><a href="https://kvcore.exprealty.com/profiles/websites/68228">&nbsp;Nathan Holman&nbsp;</a></h3>
+               <h6 class="bio-designation text-center">Real Estate Broker</h6>
+               <div class="bio-divider"><br></div>
+               <div class="temp-5-bio-icons ml-4"><a class="pr-5" href="https://www.pinterest.com/holman1164"><i class="fa fa-pinterest fa-2x"></i></a>
+                  <a class="pr-5" href="https://www.facebook.com/MaricopCountyLiving"><i class="fa fa-facebook fa-2x"></i></a>
+                  <a class="pr-5" href="https://www.youtube.com/channel/UCRzetdCP3F5hhMSzx1OoI9g"><i class="fa fa-youtube fa-2x"></i></a>
+                  <a class="pr-5" href="https://www.linkedin.com/in/holmannathan/"><i class="fa fa-linkedin fa-2x"></i></a>
+                  <a class="pr-5" href="https://www.instagram.com/maricopacountyliving/"><i class="fa fa-instagram fa-2x"></i></a>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-8 col-sm-12 d-flex px-2">
+            <p class="bio-desc pl-5" style="font-size: 1.2rem;">THIS IS HOME.... THIS IS ARIZONA.<br>Welcome I am Nathan Holman and thank you for visiting. I am your single resource for buying or selling Real Estate in Arizona. I have lived in Phoenix for over 20 years, 14 of them as a Real Estate professional &amp; consultant. Prior to that, I have worked in corporate global strategic sourcing and real estate in Europe and beyond leading global strategy and combined assets over 1.25BN+. I am proud to be a member of EXP Realty. A global BRAND and solution offering built on leading technology and innovation. EXP Realty is a brokerage with over 60,000 Agents worldwide. EXP Realty is a leading solution offering that I am excited to be part of. Innovation is essential in today’s market to ensure the best results, execution, and marketing outcomes for clients. Today’s world of business and commerce is highly technology-driven. With our capability to innovate to bring leading value and solutions to our customers, this marks the beginning of a new chapter and service offering.<br><br>I am a member of the following:<br>1) Institute for Luxury Home Marketing - Foremost program for excellence in Luxury Home Marketing &amp; Sales;<br>2) EcoBroker - Certified Green, eco-friendly high-value home assets and specialist;<br>3) ePro Certified for advanced use of technology in the sale of real estate.<br><br>Contact me today for an appointment and consultation.<br>Thank you.<br>Nathan Holman<br>Committed To Excellence, Delivering Value, Finding Your Next Dream Home</p>
+         </div>
+      </div>
+   </section>
+   <section>
+      <div class="row about-us-container py-5">
+         <div class="col-sm-12 text-center">
+            <h2 class="about-us-title py-2">Let us guide you</h2>
+            <h5 class="about-us-subtitle py-2">Don't be busy - be productive</h5>
+         </div>
+         <div class="col-sm-8 col-12">
+            <img src="https://i.ibb.co/8b2dbWh/Screenshot-268.png" class="about-us-image" alt="Team">
+        </div>
+         <!-- <div class="col-sm-4 col-12 card-container  mt-4">
+            <a href="https://nathanholman.exprealty.com/index.php?rtype=map">
+               <div class="classWithPad" style="padding:12px !important;">
+                  <h1 class="card-number text-right py-3">01.</h1>
+                  <h3 class="card-title py-2">Buying House</h3>
+                  <h5 class="card-desc pt-2 pb-5 mr-4">Find the perfect home for you for the right price. Search for homes using our up to date search tool.</h5>
+               </div>
+            </a>
+         </div> -->
+         <div class="col-sm-4 col-12 card-container mt-4">
+                <a href="https://nathanholman.exprealty.com/index.php?rtype=map">
+                <div class="classWithPad"  style="padding:15px !important;">
+                   .<h1 class="card-number text-right py-3">01.</h1>
+                  <h3 class="card-title py-2">Buying House</h3>
+                  <h5 class="card-desc pt-2 pb-5 mr-4">Find the perfect home for you for the right price. Search for homes using our up to date search tool.</h5>
+                </div>
+                </a>
+            </div>
+         <div class="col-sm-4 col-12 card-container mt-4">
+                <a href="https://nathanholman.exprealty.com/sell.php">
+                <div class="classWithPad">
+                    <h1 class="card-number text-right py-3">02.</h1>
+                    <h3 class="card-title py-2">Selling House</h3>
+                    <h5 class="card-desc pt-2 pb-5 mr-4">Get the most money for your home in the shortest ammount of time.Selling is made easy with our proven sales process.</h5>
+                </div>
+                </a>
+            </div>
+            <div class="col-sm-4 col-12 card-container mt-4">
+                <a href="https://whylibertas.com/holmangroup/?playlist=3780ecbf&video=5e7169b">
+                <div class="classWithPad">
+                    <h1 class="card-number text-right py-3">03.</h1>
+                    <h3 class="card-title py-2">We Are Hiring</h3>
+                    <h5 class="card-desc pt-2 pb-5 mr-4">If you're recruiting a top agent,you'll want to state right off the bat what you bring to the partnership.Most high..</h5>
+                </div>
+                </a>
+            </div>
+            <div class="col-sm-4 col-12 card-container mt-4">
+                <a href="https://nathanholman.exprealty.com/contact.php">
+                <div class="classWithPad">
+                    <h1 class="card-number text-right py-3">04.</h1>
+                    <h3 class="card-title py-2">Get In Touch</h3>
+                    <h5 class="card-desc pt-2 pb-5">Contact our team and to get in touch with one of our team members. We are here to support and assist with all phases.</h5>
+                </div>
+                </a>
+            </div>
+      </div>
+   </section>
+   <section>
+      <div class="temp-5-testimonial-section ">
+         <div class="row">
+            <div class="col-md-12  temp-5-testimonial-container text-center">
+                
+                <div class="text-center">
+                    <h2 class="py-3" style="font-size:40px;color: #fff;">Testimonial</h2>
+                </div>
+               <div class="carousel slide" data-ride="carousel" id="testimonial-001">
+                  <div class="carousel-inner" style="height: 29rem; background: #212F3C;">
+                     <div class="carousel-item">
+                        <div class=" py-5 px-5 text-center">
+                           <div><span class="fa fa-star checkedStar"></span>
+                              <span class="fa fa-star checkedStar"></span>
+                              <span class="fa fa-star checkedStar"></span>
+                              <span class="fa fa-star checkedStar"></span>
+                              <span class="fa fa-star checkedStar"></span>
+                           </div>
+                           <div class="bio-image-container"><img class="testimonial-image fr-fil fr-dib" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f0dec0124045707.60fbb6526680c.jpg" alt="Dummy"></div>
+                           <div class="review-text mt-3 mb-3" style="color: #fff;">"[AGENT] was so helpful for my family and I throughout the process. [AGENT’s] communication and negotiation skills helped us in a very tough market and we are very grateful! I would recommend [AGENT] to anyone looking to buy or sell!"</div>
+                           <div class="reviewer"  style="color: #fff;">-Jonathan K.</div>
+                        </div>
+                     </div>
+                     <div class="carousel-item">
+                        <div class= py-5 px-5 text-center">
+                           <div><span class="fa fa-star checkedStar"></span>
+                              <span class="fa fa-star checkedStar"></span>
+                              <span class="fa fa-star checkedStar"></span>
+                              <span class="fa fa-star checkedStar"></span>
+                              <span class="fa fa-star checkedStar"></span>
+                           </div>
+                           <div class="bio-image-container"><img class="testimonial-image fr-fil fr-dib" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5b9e05124045707.60fbb6526609f.png" alt="Dummy"></div>
+                           <div class="review-text mt-3 mb-3" style="color: #fff;">"When my husband and I first thought about the home buying process, we were initially
+                           intimidated by stories we had heard from our friends and family. However, working with
+                           [AGENT] has been an absolutely amazing experience! As first time home buyers, we felt
+                           educated, confident and comfortable working with [AGENT!]"</div>
+                           <div class="reviewer"  style="color: #fff;">-Katherine P.</div>
+                        </div>
+                     </div>
+                     <div class="carousel-item active">
+                        <div class= py-5 px-5 text-center">
+                           <div><span class="fa fa-star checkedStar"></span>
+                              <span class="fa fa-star checkedStar"></span>
+                              <span class="fa fa-star checkedStar"></span>
+                              <span class="fa fa-star checkedStar"></span>
+                              <span class="fa fa-star checkedStar"></span>
+                           </div>
+                           <div class="bio-image-container"><img class="testimonial-image fr-fil fr-dib" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f0dec0124045707.60fbb6526680c.jpg" alt="Dummy"></div>
+                           <div class="review-text mt-3 mb-3" style="color: #fff;">"Selling our home was fast and efficient. We had multiple offers on our home within a few days and everything from the marketing to the negotiations were handled quickly and without any issues. Thank you [AGENT] for making this process easy."</div>
+                           <div class="reviewer"  style="color: #fff;">-Emma C.</div>
+                        </div>
+                     </div>
+                  </div>
+                  <a class="carousel-control-prev" data-slide="prev" href="#testimonial-001">&nbsp;<span class="sr-only">Previous</span></a>
+                  <a class="carousel-control-next" data-slide="next" href="#testimonial-001" style="">&nbsp;<span class="sr-only">Next</span></a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+    
